@@ -1,7 +1,7 @@
 📁 ECG Front-End Circuit Design – Altium-Based PCB Project
 
 ## Overview
-This project implements a fully custom ECG signal acquisition front-end on a multi-stage analog PCB, designed using Altium Designer. The system includes instrumentation amplification, active bandpass filtering, level shifting, and programmable gain control.
+This project implements a fully custom ECG signal acquisition front-end on a multi-stage analog PCB, designed using Altium Designer under supervision of Professor Amit Nimunkar. The system includes instrumentation amplification, active bandpass filtering, level shifting, and programmable gain control.
 
 ## Demo
 
